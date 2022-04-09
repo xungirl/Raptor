@@ -1,2 +1,2 @@
-*.md 语言学家可检测 =true
-*.md linguist-documentation=false
+*.cpp 语言学家可检测 =true
+*.cpp linguist-documentation=false
